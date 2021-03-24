@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there!
+
+Welcome to my github page! My name is Mike and my prefered pronous are he/him/his.
+
+Here's a little bit about me:
+
+- I'm currently a frontend engineer for Morgan & Morgan 👨‍⚖️
+- I love making pottery in my free time 🏺
+- I originally went to undergrad for physics and electrical engineering ⚡️
+- I'd love to look for ways to combine physics and coding 🍎
 
 <!--
 **Cpt-Catnip/Cpt-Catnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
