@@ -9,6 +9,8 @@ Here's a little bit about me:
 - I originally went to undergrad for physics and electrical engineering ⚡️
 - I'd love to look for ways to combine physics and coding 🍎
 
+Check out my [personal site](http://www.mikekosh.com/) for more fun stuff!
+
 <!--
 **Cpt-Catnip/Cpt-Catnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
