@@ -4,7 +4,7 @@ Welcome to my github page! My name is Mike and my prefered pronous are he/him/hi
 
 Here's a little bit about me:
 
-- I'm currently a frontend engineer for Morgan & Morgan 👨‍⚖️
+- I'm currently a Node.JS Cloud Engineer at American Express 💳
 - I love making pottery in my free time 🏺
 - I originally went to undergrad for physics and electrical engineering ⚡️
 - I'd love to look for ways to combine physics and coding 🍎
