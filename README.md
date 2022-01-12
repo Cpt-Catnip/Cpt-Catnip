@@ -1,6 +1,6 @@
 ### Hello there!
 
-Welcome to my github page! My name is Mike and my prefered pronous are he/him/his.
+Welcome to my github page! My name is Mike and my prefered pronous are he/him.
 
 Here's a little bit about me:
 
