@@ -4,12 +4,11 @@ Welcome to my github page! My name is Mike and my prefered pronous are he/him.
 
 Here's a little bit about me:
 
-- I'm currently a Node.JS Cloud Engineer at American Express 💳
+- I'm currently a Backed Engineer at American Express 💳
 - I love making pottery in my free time 🏺
 - I originally went to undergrad for physics and electrical engineering ⚡️
 - I'd love to look for ways to combine physics and coding 🍎
-
-Check out my [personal site](http://www.mikekosh.com/) for more fun stuff!
+- Curently trying to learn functional programming Ⲗ
 
 <!--
 **Cpt-Catnip/Cpt-Catnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
